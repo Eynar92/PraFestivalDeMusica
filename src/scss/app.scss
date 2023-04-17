@@ -1,0 +1,8 @@
+// SITANXIS ANTIGUA
+// @import './base/variables';
+// @import './contenido/contenido.scss';
+
+// SINTAXIS NUEVA
+@use 'base' as v;
+@use 'contenido';
+@use 'layout';
